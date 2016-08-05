@@ -1,2 +1,3 @@
 # hello-world
-test repositry
+test repository
+I am a complete novice at this
